@@ -1,6 +1,6 @@
-# Depined-Auto-Bot
+# Depined-bot
 
-Depined Auto Bot
+Depined Auto Bot Farm and Multi Accounts
 
 ---
 
